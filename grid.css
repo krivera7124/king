@@ -1,0 +1,12 @@
+style { font-family:  new-order, sans-serif;
+    font-style: normal;
+    font-weight: 300; 
+    font-size: medium;}
+figcaption{font-size: smaller;
+    color: aqua;}
+body{background-color: black;}
+p{color: crimson; }
+h1{color: red;}
+ol {color: darkred;}
+ul {color: darkred;}
+div {float: left; padding: 15px;}
